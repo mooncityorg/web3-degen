@@ -1,31 +1,16 @@
-<!--
-**black-wyvern-dev/black-wyvern-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h3 align="center">
-Hi there, I'm <a href="https://cvdesignr.com/p/617a18cbf2e18/" target="_blank" rel="noreferrer">Alex</a> 👋
+Hi there, Welcome to <a href="https://web3degen.org" target="_blank" rel="noreferrer">my Github</a> 👋
 </h3>
 
 ### I'm a passionate Full Stack blockchain and Web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-### 10+ years of Web2 & 6+ years of Blockchain/Web3 experience & Solid Xp on EVM, BSC, Polygon, Solana, Near, Aptos, Sui and BTC
+### 10+ years of Web2 & 5+ years of Blockchain/Web3 experience & Solid Xp on EVM, BSC, Polygon, Solana, Near, Binance, Aptos, Sui and BTC, Ordinal
 
 ### 🤝 Connect with me:
 
-<a href="https://discordapp.com/users/862393400976343041"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg" alt="Alex | Discord" width="24px"/></a>
-<a href="https://t.me/SeniorDevTSD/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Alex | Telegram" width="24px"/></a>
-<a href="mailto:nightfurry090@gmail.com"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg" alt="Alex | Email" width="24px"/></a>
-<a href="https://join.skype.com/invite/mMQxhBacldqS"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg" alt="Alex | Skype" width="24px"/></a>
+
+<a href="https://t.me/jjames0116/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Web3 | Telegram" width="24px"/></a>
+<a href="mailto:shinydv412@gmail.com"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg" alt="Web3 | Email" width="24px"/></a>
+<a href="https://join.skype.com/invite/u9hTlPqn3UeT"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg" alt="Web3 | Skype" width="24px"/></a>
 </br>
  - 💬 If you have any question/feedback or any freelancer work, please do not hesitate to reach out to me!
 
@@ -70,7 +55,8 @@ Hi there, I'm <a href="https://cvdesignr.com/p/617a18cbf2e18/" target="_blank" r
  
 ## 🌱 Experience
  - Built NFT/Token Minting, Staking, Breeding, Raffle/Auction, Mutex(Evolution), Marketplace, Launchpad, ICO/IDO
- - Built P2E Games like Casino, Poker, Dice, Guess Number, Moonshot, CoinFlip and Battalion 
+ - Built P2E Games like Casino, Poker, Dice, Guess Number, Moonshot, CoinFlip and Battalion
+ - Built several web3 bots (Botter team) on discord and telegram
  - Built NFT/Wallet Tracker Tool by analyzing Whales Wallets of various Pools
  - Built DEXs, DeFi, DAO on EVM, BSC, Solana, Near, Aptos, Sui, BTC
 <p>    
