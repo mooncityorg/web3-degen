@@ -11,8 +11,8 @@ Hi there, Welcome to <a href="https://web3degen.org" target="_blank" rel="norefe
 <a href="https://t.me/jjames0116/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Web3 | Telegram" width="24px"/></a>
 <a href="mailto:shinydv412@gmail.com"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg" alt="Web3 | Email" width="24px"/></a>
 <a href="https://join.skype.com/invite/u9hTlPqn3UeT"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg" alt="Web3 | Skype" width="24px"/></a>
-<a href="https://twitter.com/web3degendev"><img align="left" src="https://github.com/web3-degen/web3-degen/assets/41557645/02e50ea3-32bb-4a94-82e8-d3d249bca77f" alt="Web3 | Skype" width="24px"/></a>
-<a href="https://www.linkedin.com/in/james-jam-ab0521235"><img align="left" src="https://github.com/web3-degen/web3-degen/assets/41557645/9cbc1c13-36c2-4ee1-ad33-e535e3d095f8" alt="Web3 | Skype" width="24px"/></a>
+<a href="https://twitter.com/web3degendev"><img align="left" src="https://github.com/web3-degen/web3-degen/assets/41557645/02e50ea3-32bb-4a94-82e8-d3d249bca77f" alt="Web3 | X" width="24px"/></a>
+<a href="https://www.linkedin.com/in/james-jam-ab0521235"><img align="left" src="https://github.com/web3-degen/web3-degen/assets/41557645/9cbc1c13-36c2-4ee1-ad33-e535e3d095f8" alt="Web3 | Linkedin" width="24px"/></a>
 </br>
 
 
